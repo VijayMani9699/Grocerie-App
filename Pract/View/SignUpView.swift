@@ -24,7 +24,7 @@ class SignUpView : UIViewController {
     @IBOutlet weak var conPassalertLabel : UILabel!
     @IBOutlet weak var registerBtn : UIButton!
     
-    let HTTps = NetworkCall()
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
